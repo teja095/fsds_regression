@@ -1,4 +1,9 @@
 numpy
 pandas
 Flask
+scikit-learn
+seaborn
+sklearn==0.20.4
+azureml-sdk==1.0.85
+
 -e .
